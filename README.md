@@ -1,6 +1,6 @@
 # LearningPython
 
-https://www.python.org/static/img/python-logo.png
+![Python](https://www.python.org/static/img/python-logo.png "Python")
 
 Python的3.0版本，常被称为Python 3000，或简称Py3k。
 
